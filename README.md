@@ -17,7 +17,7 @@ Pon atención a los detalles de diseño, la simplicidad, y la elegancia en la di
 HTML y CSS
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
+[Enlace a la vista previa del trabajo finalizado:](https://laura0916.github.io/Portafolio-minimalista/)
 
 
 ## Licencia
