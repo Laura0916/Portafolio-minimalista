@@ -1,0 +1,93 @@
+/******* LAYOUT *******/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+    font-family: Inter;
+    background-color: #f3f3f3;
+}
+
+.container{
+    width: 100%;
+    max-width: 1000px; 
+    margin: auto;
+    margin-top: 64px;
+}
+
+/******* INTRO *******/
+
+.intro{
+    display: grid; 
+    grid-template-columns: 50% 50%; 
+    margin-bottom: 64px;
+}
+.intro .text{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.intro .text h1{
+    font-size: 64px;
+    line-height: 0px;
+}
+
+.intro .text a{
+    color: black;
+    margin-right: 16px;
+}
+
+.intro .avatar{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.avatarimg{
+    width: 100px; 
+    height: 250px; 
+}
+
+/******* PROJECTS *******/
+.projects{
+    display: grid; 
+    grid-template-columns: 50% 50%; 
+    margin-bottom: 64px;
+    border-bottom: 2px solid; 
+    padding-bottom: 64px;
+    margin-bottom: 64px;
+}
+
+.projects .description{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.projects .description p{
+    color:#767676;
+}
+
+.projects .photo img{
+    width: 100%;
+}
+
+.projects .description a{
+    color: black;
+}
+
+/*******RESPONSIVE*********/
+@media(width < 1000px){
+   .intro{
+    grid-template-columns: 100%;
+    text-align: center;
+   }
+
+   .projects{
+    grid-template-columns: 100%;
+
+    .projects .description{
+        margin-bottom: 64px;
+    }
+   }
+}
