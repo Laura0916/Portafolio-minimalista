@@ -10,7 +10,7 @@ HTML y CSS
 [Enlace a la vista previa del trabajo finalizado:](https://laura0916.github.io/Portafolio-minimalista/)
 
 
-## Licencia
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 💪 Inspiration 
