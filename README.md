@@ -7,7 +7,7 @@ This project showcases a simple landing page with a short introduction, social l
 HTML y CSS
 
 ## Screenshots y preview
-[Enlace a la vista previa del trabajo finalizado:](https://laura0916.github.io/Portafolio-minimalista/)
+[Link and preview of the completed work:](https://laura0916.github.io/Portafolio-minimalista/)
 
 
 ## License
